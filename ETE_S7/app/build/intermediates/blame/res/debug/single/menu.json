@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Luciano\\StudioProjects\\ETE_S7\\app\\build\\intermediates\\res\\merged\\debug\\menu\\notifi.xml",
+        "source": "C:\\Users\\Luciano\\StudioProjects\\ETE_S7\\app\\src\\main\\res\\menu\\notifi.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luciano\\StudioProjects\\ETE_S7\\app\\build\\intermediates\\res\\merged\\debug\\menu\\notification.xml",
+        "source": "C:\\Users\\Luciano\\StudioProjects\\ETE_S7\\app\\src\\main\\res\\menu\\notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luciano\\StudioProjects\\ETE_S7\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Luciano\\StudioProjects\\ETE_S7\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]
